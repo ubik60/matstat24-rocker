@@ -3,5 +3,3 @@
     install.packages("remotes")
     remotes::install_github(repo = "speegled/fosdata")
 
-    install.packages("tinytex")
-    tinytex::install_tinytex()
